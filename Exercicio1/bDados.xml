@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lista_celulares>
+    <dispositivo>
+        <modelo>Galaxy S20+</modelo>
+        <armazenamento>128 GB</armazenamento>
+        <ram>8 GB</ram>
+        <so>Android 10</so>
+        <bateria>4500 mAH</bateria>
+    </dispositivo>
+    <dispositivo>
+        <modelo>Motorola Edge</modelo>
+        <armazenamento>128 GB</armazenamento>
+        <ram>6 GB</ram>
+        <so>Android 10</so>
+        <bateria>4500 mAH</bateria>
+    </dispositivo>
+    <dispositivo>
+        <modelo>Iphone 11 pro Max</modelo>
+        <armazenamento>512 GB</armazenamento>
+        <ram>4 GB</ram>
+        <so>IOS 13</so>
+        <bateria>3969 mAH</bateria>
+    </dispositivo>
+    <dispositivo>
+        <modelo>Xiaomi MI 9</modelo>
+        <armazenamento>64 GB</armazenamento>
+        <ram>6 GB</ram>
+        <so>Android 10</so>
+        <bateria>3300 mAH</bateria>
+    </dispositivo>
+    <dispositivo>
+        <modelo>ZenFone Max Pro</modelo>
+        <armazenamento>64 GB</armazenamento>
+        <ram>4 GB</ram>
+        <so>Android 8.1</so>
+        <bateria>5000 mAH</bateria>
+    </dispositivo>
+</lista_celulares>

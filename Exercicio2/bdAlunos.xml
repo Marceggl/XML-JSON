@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lista_contato>
+    <aluno>
+        <rgm>38520921</rgm>
+        <email>finn@hotmail.com</email>
+        <nome>
+            <primeiro>Finn</primeiro>
+            <ultimo>Mertens</ultimo>
+        </nome>
+    </aluno>
+    <aluno>
+        <rgm>53499706</rgm>
+        <email>jakeocao@hotmail.com</email>
+        <nome>
+            <primeiro>Jake</primeiro>
+            <ultimo>o Cão</ultimo>
+        </nome>
+    </aluno>
+    <aluno>
+        <rgm>38392542</rgm>
+        <email>lucifermorningstar@hotmail.com</email>
+        <nome>
+            <primeiro>Lucifer</primeiro>
+            <ultimo>the MorningStar</ultimo>
+        </nome>
+    </aluno>
+    <aluno>
+        <rgm>91852962</rgm>
+        <email>RagnarLothbrok@hotmail.com</email>
+        <nome>
+            <primeiro>Ragnar</primeiro>
+            <ultimo>Lothbrok</ultimo>
+        </nome>
+    </aluno>
+    <aluno>
+        <rgm>01730401</rgm>
+        <email>AlanWalker@hotmail.com</email>
+        <nome>
+            <primeiro>Alan</primeiro>
+            <ultimo>Walker</ultimo>
+        </nome>
+    </aluno>
+    <aluno>
+        <rgm>26784511</rgm>
+        <email>puredebatata@hotmail.com</email>
+        <nome>
+            <primeiro>Marcel</primeiro>
+            <ultimo>Barreto</ultimo>
+        </nome>
+    </aluno>
+
+
+
+</lista_contato>

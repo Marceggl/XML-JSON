@@ -1,0 +1,41 @@
+[{
+        "rgm": "38520921",
+        "email": "finn@hotmail.com",
+        "nome": {
+            "primeiro": "Finn",
+            "ultimo": "Mertens"
+        }
+    },
+    {
+        "rgm": "53499706",
+        "email": "jakeocao@hotmail.com",
+        "nome": {
+            "primeiro": "Jake",
+            "ultimo": "O cão"
+        }
+    },
+    {
+        "rgm": "38392542",
+        "email": "lucifermorningstar@hotmail.com",
+        "nome": {
+            "primeiro": "Lucifer",
+            "ultimo": "the MorningStar"
+        }
+    },
+    {
+        "rgm": "91852962",
+        "email": "RagnarLothbrok@hotmail.com",
+        "nome": {
+            "primeiro": "Ragnar",
+            "ultimo": "Lothbrok"
+        }
+    },
+    {
+        "rgm": "26784511",
+        "email": "puredebatata@hotmail.com",
+        "nome": {
+            "primeiro": "Marcel",
+            "ultimo": "Barreto"
+        }
+    }
+]

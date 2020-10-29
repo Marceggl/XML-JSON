@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../Css/style.css">
+    <script src="carregarJSON.js"></script>
+    <title>busca RGM</title>
+</head>
+
+<body>
+    <div id="global">
+        <nav>
+            <a href="../Exercicio1/index.html">Tabela XML</a>
+            <a href="../Exercicio2/regCompleto.html">Tabela RGM completa XML</a>
+            <a href="../Exercicio2/rgmNome.html">Tabela RGM mais Nome XML</a>
+            <a href="buscaRGM.html">buscar JSON</a>
+            <a href="../index.html">Home</a>
+        </nav>
+        <article class="artigo">
+            <form action="">
+                <p>Exercicio 3</p>
+                <div>
+                    <input type="text" placeholder="RGM" name="rgm" id="inpuRGM">
+                </div>
+                <div class="botao">
+                    <input type="button" value="Buscar" id="botao">
+                </div>
+            </form>
+        </article>
+        <article class="artigo">
+            <table id="lista">
+                <tr>
+                    <th>RGM</th>
+                    <th>Nome</th>
+                    <th>Sobrenome</th>
+                    <th>Email</th>
+                </tr>
+            </table>
+        </article>
+    </div>
+    <script src="buscaRGM.js"></script>
+</body>
+
+</html>
